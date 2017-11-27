@@ -2,7 +2,7 @@
 
 #### Laboratoria , http://www.laboratoria.la/
 
-
+![Inicio](assets/laboratoria-site.jpg)
 
 ###### UX
 - El contenido del site se ajusta al tamaño de la ventana.
@@ -30,4 +30,3 @@ estas percepciones con Laboratoria.
 - Fondo Blanco.
 
 
-![Inicio](assets/laboratoria-site.jpg)
